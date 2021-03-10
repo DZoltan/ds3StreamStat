@@ -1,0 +1,12 @@
+{"actual_data" : {
+    "deaths" : {
+        "location" : 3,
+        "all" : 30
+    },
+    "bosses" : {
+        "id" : 0, "location" : "Cemetery of Ashes", 
+        "boss": "Iudex Gundyr",
+        "succeed" : false
+    }
+}
+}

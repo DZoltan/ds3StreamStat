@@ -1,0 +1,7 @@
+{"bosses" : [
+    {"id" : 0, "location" : "Cemetery of Ashes", 
+        "boss": "Iudex Gundyr"},
+    {"id" : 1, "location" : "High Wall of Lothric", 
+        "boss": "Vordt of the Boreal Valley"}
+    
+]}

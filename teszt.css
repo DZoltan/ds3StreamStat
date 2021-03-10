@@ -1,0 +1,25 @@
+.list{
+    background-image: url("dark-border.png");
+    background-size: cover  ;
+    width: 700px;
+    height: 550px;
+    background-color: brown;
+}
+
+.content{
+    font-size: xx-large;
+    font-weight: bold;
+    position: relative;
+    top:110px;
+    left:140px;
+    
+}
+
+#stat{
+    text-align: center;
+    width: 70%;
+}
+
+.content > h2 , .content > h1{
+    margin: 0.2em;
+}
